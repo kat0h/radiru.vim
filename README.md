@@ -22,6 +22,7 @@ let g:lightline = {
 \   },
 \ }
 ```
+![lightline](misc/lightline.png)
 
 # Requirement
 
