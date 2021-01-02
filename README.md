@@ -14,7 +14,7 @@ Radiru Client for Vim
 `g:radiru#playing_station()`  
 再生中の放送局の名前を取得できます。
 以下のようにstatuslineで確認できます。
-```
+``` vim
 let g:lightline = {
  . . .
 \   'component_function': {
